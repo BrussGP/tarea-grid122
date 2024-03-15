@@ -1,0 +1,183 @@
+h1{
+    text-align: center;
+}
+.principal{
+    background-color: brown;
+    padding: 5px;
+}
+.campo1{
+    background-color: deepskyblue;
+    padding: 5px;
+    display: grid;
+    margin: 3px;
+}
+
+.caja1{
+    background-color: rgb(193, 0, 252);
+    margin: 3px;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    grid-column: 1/5;
+    text-align: center;
+}
+
+.caja2{
+    background-color: rgb(193, 0, 252);
+    margin: 3px;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    grid-column: 1/3;
+    text-align: center;
+}
+
+.caja3{
+    background-color: rgb(193, 0, 252);
+    margin: 3px;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    grid-column: 3/4;
+    text-align: center;
+}
+
+.caja4{
+    background-color: rgb(193, 0, 252);
+    margin: 3px;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    grid-column: 4/5;
+    text-align: center;
+}
+
+.caja5{
+    background-color: rgb(193, 0, 252);
+    margin: 3px;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    grid-column: 1/1;
+    text-align: center;
+}
+
+.caja6{
+    background-color: rgb(193, 0, 252);
+    margin: 3px;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    grid-column: 2/5;
+    text-align: center;
+}
+
+.caja7{
+    background-color: rgb(193, 0, 252);
+    margin: 3px;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    grid-column: 1/3;
+    text-align: center;
+}
+
+.caja8{
+    background-color: rgb(193, 0, 252);
+    margin: 3px;
+    height: 32px;
+    border-top-style:solid;
+    border-left-style:solid;
+    border-right-style:solid;
+    border-color: black;
+    font-size: 20px;
+    grid-column: 3/5;
+    grid-row: 4/5;
+    text-align: center;
+}
+
+.caja9{
+    background-color: rgb(193, 0, 252);
+    margin: 3px;
+    margin-top: 35px;
+    height: 33px;
+    border-style: solid;
+    border-color: black;
+    font-size: 20px;
+    grid-column: 3/5;
+    grid-row: 4/5;
+    text-align: center;
+}
+
+.campo2{
+    background-color: red;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cj1{
+    background-color: aqua;
+    margin: 3px;
+    text-align: center;
+    font-size: 40px;
+    width: 190px;
+    height: 200px;
+    flex-grow: 1;
+}
+
+.cj2{
+    background-color: blue;
+    margin: 3px;
+    padding: 5px;
+    width: 65%;
+    height: 193px;
+    text-align: center;
+    font-size: 40px;
+    flex-grow: 1;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cjin1{
+    background-color: yellow;
+    margin: 2px;
+    width: 100%;
+}
+
+.cjin2{
+    background-color: greenyellow;
+    margin: 2px;
+    width: 40%;
+    flex-grow: 1;
+    
+}
+
+.cjin3{
+    background-color: deeppink;
+    margin: 2px;
+    width: 40%;
+    flex-grow: 1;
+}
+
+.cj3{
+    background-color: lightseagreen;
+    margin: 3px;
+    text-align: center;
+    font-size: 40px;
+    width: 190px;
+    height: 200px;
+    flex-grow: 1;
+}
+
+.boots{
+    background-color: lawngreen;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
